@@ -284,3 +284,16 @@ The Fire Level uses a third-party fire sprite-sheet asset for the animated parti
 Third-party assets remain subject to their respective licenses and attribution requirements.
 
 All original gameplay logic, scene configuration, UI implementation, level setup, and project-specific code are part of this project unless otherwise stated.
+
+
+---
+
+## License
+
+This project is currently provided for **educational and demonstration purposes**.
+
+The source code and original project content remain subject to the rights of the project author unless a separate license is provided.
+
+Third-party assets included in the project remain subject to their respective licenses.
+
+For reuse, redistribution, or modification of third-party assets, refer to their original license terms.
