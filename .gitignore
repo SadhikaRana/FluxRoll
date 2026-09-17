@@ -1,0 +1,84 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+.idea/
+
+# Generated solution/project files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+
+# IDE / build generated files
+ExportedObj/
+.gradle/
+
+# Debug / generated files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity build files
+*.apk
+*.aab
+*.unitypackage
+
+# Crash / temporary files
+sysinfo.txt
+mono_crash.*
+
+# JetBrains
+*.DotSettings.user
+
+/[Rr]ecordings/
+*.vsconfig
+
+# Unity template/example content not required by FLUXROLL
+/Assets/TextMesh Pro/Documentation/
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TutorialInfo/
+/Assets/Readme.asset
+/Assets/Readme.asset.meta
+
+# Old Roll-a-Ball template files
+/Assets/Tree.prefab
+/Assets/Tree_Textures/
+/Assets/cameracontroller.cs
+/Assets/playercontroller.cs
+/Assets/PickUps.cs
+/Assets/input.inputactions
+/Assets/Scenes/RestartButton.prefab
+
+# Unused Unity template metadata
+/Assets/TextMesh Pro/Documentation.meta
+/Assets/TextMesh Pro/Examples & Extras.meta
+/Assets/TutorialInfo.meta
+
+/Assets/PickUps.cs.meta
+/Assets/Scenes/RestartButton.prefab.meta
+/Assets/Tree.prefab.meta
+/Assets/Tree_Textures.meta
+/Assets/cameracontroller.cs.meta
+/Assets/input.inputactions.meta
+/Assets/playercontroller.cs.meta
