@@ -8,6 +8,31 @@ The current prototype contains two playable environments: **Neon Level** and **F
 
 ---
 
+## Download & Play
+
+The current release is available as a standalone **Windows 64-bit build**.
+
+### Download
+
+**[Download & Play FLUXROLL v1.0.0](https://github.com/SadhikaRana/FluxRoll/releases/tag/v1.0.0)**
+
+### Requirements
+
+- Windows 10 or later
+- 64-bit Windows system
+- No Unity installation required
+
+### Running the Game
+
+1. Download the latest Windows release.
+2. Extract the downloaded ZIP file.
+3. Open the extracted folder.
+4. Run `FluxRoll.exe`.
+
+The Windows build is distributed through GitHub Releases rather than as part of the source-code files. GitHub Releases are intended for distributing compiled software and binary assets. :contentReference[oaicite:1]{index=1}
+
+--- 
+
 ### Working Demo
 
 #### Fire Level
@@ -112,30 +137,6 @@ TextMeshPro is used for the game's UI text and provides the text formatting and 
 - Theme selection system
 - Windows 64-bit standalone build
 - Unity URP-based rendering
----
-
-## Download & Play
-
-The current release is available as a standalone **Windows 64-bit build**.
-
-### Download
-
-[**Download FLUXROLL for Windows →**](YOUR_GITHUB_RELEASE_URL)
-
-### Requirements
-
-- Windows 10 or later
-- 64-bit Windows system
-- No Unity installation required
-
-### Running the Game
-
-1. Download the latest Windows release.
-2. Extract the downloaded ZIP file.
-3. Open the extracted folder.
-4. Run `FluxRoll.exe`.
-
-The Windows build is distributed through GitHub Releases rather than as part of the source-code files. GitHub Releases are intended for distributing compiled software and binary assets. :contentReference[oaicite:1]{index=1}
 
 ---
 
